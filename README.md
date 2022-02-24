@@ -1,2 +1,2 @@
 # html5-curso-em-video
-Repositório criado durante o curso HTML5 do Curso em Vídeo
+Repositório criado durante o curso HTML5, CSS3 e JavaScript do Curso em Vídeo.

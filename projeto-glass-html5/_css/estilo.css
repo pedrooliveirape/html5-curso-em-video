@@ -238,3 +238,13 @@ footer#rodape {
 footer#rodape p {
     text-align: center;
 }
+
+/* Videos do index */
+
+video#baixo {
+    width: 500px;
+}
+
+video#lateral {
+    width: 350px;
+}
